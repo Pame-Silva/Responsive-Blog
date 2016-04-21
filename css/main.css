@@ -1,7 +1,44 @@
-/* Inserta tu codigo aqui */
+/* Header */
+body {
+	background-color: #4F4A4A;
+}
+
+.texto-menu li {
+   display: inline;
+   border-left: 1px solid black;
+   font-size: 10px;
+   margin-left: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+.texto-menu li a {
+   color: black;
+   font-size: 15px;
+   text-decoration: none;
+}
+
+.logo {
+	width: 350px;
+	height: 200px;
+}
+
+.image-header {
+	width: 100%;
+	height: 500px;
+
+}
+
+/*Imagenes*/
+.pictures {
+
+
+}
+
+
+
 
 /* Responsive */
-
 @media screen and (max-width : 920px) {
 
 }
